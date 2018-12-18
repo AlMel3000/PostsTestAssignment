@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="english_speaking_support">"support@example.co.uk"</string>
+
+    <string name="action_email">Email author</string>
+    <string name="action_maps">Show maps</string>
+    <string name="contact_support">Please contact support</string>
+    <string name="support">Support</string>
+    <string name="failure_try_later">Failure. Please try again later</string>
+    <string name="apps_are_not_installed_to_send_mail">No application installed to send e-mail</string>
+    <string name="failed_to_fetch_data">"Failed to fetch data. Code: "</string>
+    <string name="chooser_email">Send email…</string>
+    <string name="from_post_app">From Post app</string>
+    <string name="dear">"Dear "</string>
+    <string name="email_purpose_description">",\nI am about your post, titled:\n"</string>
+    <string name="maps_not_installed">Maps are not installed</string>
+</resources>
